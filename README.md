@@ -1,7 +1,7 @@
 # SpringBootCRUD
 This Repository Consists of CRUD Rest API Implemented using Spring Boot and Hibernate in various Implementstions
 
-# Herewith I have added the MySQL Script for Database configuration with 5 Pre-Populated database entries
+# MySQL Script for Database configuration
 
 CREATE DATABASE  IF NOT EXISTS `employee_directory`;
 USE `employee_directory`;
